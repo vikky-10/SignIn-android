@@ -3,6 +3,9 @@
     <color name="primary">#FEFEFE</color>
     <color name="blueButton">#6164A7</color>
     <color name="purple_200">#FFBB86FC</color>
+    <color name="textView">#A7A7A7</color>
+    <color name="header">#8683A9</color>
+    <color name="editText">#767676</color>
     <color name="grayInput">#F7F7F7</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
